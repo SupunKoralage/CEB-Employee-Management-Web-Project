@@ -1,1 +1,1 @@
-# CEB-Employee-Management-Web-Project
+C#, ASP.NET, and MS SQL Server. This system is designed to streamline the management of employee records within the organization. It provides an intuitive interface for administrators to add, update, and manage employee details. The database is managed using MS SQL Server to ensure secure and reliable storage of critical employee data. The project follows a modular approach, making it easy to scale and maintain. It aims to enhance productivity and reduce manual workload by automating key administrative tasks.
